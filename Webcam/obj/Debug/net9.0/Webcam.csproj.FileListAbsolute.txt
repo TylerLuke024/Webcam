@@ -1,0 +1,4 @@
+C:\Users\Tyler\OneDrive\Desktop\C# Files\Webcam\Webcam\obj\Debug\net9.0\Webcam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\OneDrive\Desktop\C# Files\Webcam\Webcam\obj\Debug\net9.0\Webcam.AssemblyInfoInputs.cache
+C:\Users\Tyler\OneDrive\Desktop\C# Files\Webcam\Webcam\obj\Debug\net9.0\Webcam.AssemblyInfo.cs
+C:\Users\Tyler\OneDrive\Desktop\C# Files\Webcam\Webcam\obj\Debug\net9.0\Webcam.csproj.CoreCompileInputs.cache
