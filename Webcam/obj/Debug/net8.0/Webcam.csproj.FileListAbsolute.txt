@@ -19,3 +19,4 @@ C:\Users\Tyler\OneDrive\Desktop\C# Files\Webcam\Webcam\obj\Debug\net8.0\refint\W
 C:\Users\Tyler\OneDrive\Desktop\C# Files\Webcam\Webcam\obj\Debug\net8.0\Webcam.pdb
 C:\Users\Tyler\OneDrive\Desktop\C# Files\Webcam\Webcam\obj\Debug\net8.0\Webcam.genruntimeconfig.cache
 C:\Users\Tyler\OneDrive\Desktop\C# Files\Webcam\Webcam\obj\Debug\net8.0\ref\Webcam.dll
+C:\Users\Tyler\OneDrive\Desktop\C# Files\Webcam\Webcam\obj\Debug\net8.0\Webcam.sourcelink.json
